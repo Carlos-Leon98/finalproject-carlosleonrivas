@@ -12,6 +12,9 @@ function App() {
         <p>
           Thank you Teacher
         </p>
+        <p>
+          This is the part I changed
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
